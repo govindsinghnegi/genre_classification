@@ -1,2 +1,2 @@
 # genre_classification
-exercise 14 of chapter 3 ml-pipelines in mlops 
+Exercise 14 of MLops C2
